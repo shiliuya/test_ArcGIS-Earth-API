@@ -1,5 +1,5 @@
 # test_ArcGIS-Earth-API
-本项目是用于测试如下5个ArcGIS Earth API:
+本项目是用于测试如下5个ArcGIS Earth Automation API:
 
 1.Get Camera
 
